@@ -1,35 +1,50 @@
 <h1 align="center">Hi 👋, I'm T. Narasimha</h1>
-<h3 align="center">Data Analyst | Business Analyst | Python Developer | Turning Data into Insights 📊</h3>
+
+<h3 align="center">
+Aspiring Software Engineer | Data Analyst | Business Analyst | AI Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Narasimha2308&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+Building practical software, analyzing data, and solving real-world problems through technology.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Narasimha2308&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-🎓 Final-year B.Tech Computer Science student passionate about solving business problems using data.
+🎓 Final Year B.Tech Computer Science Student
 
-📊 Interested in:
+💻 Passionate about
+
+- Software Development
 - Data Analytics
 - Business Analytics
-- Data Visualization
 - Artificial Intelligence
-- Process Automation
+- Automation
+- Full Stack Development
 
-💡 I enjoy transforming raw data into meaningful insights using Python, SQL, Power BI, Tableau, and Excel.
+📊 I enjoy building applications that solve real-world problems while combining software engineering with data-driven insights.
 
-🌱 Currently learning:
+🌱 Currently Learning
+
 - Advanced SQL
 - Power BI
 - Tableau
 - Machine Learning
-- Statistics for Data Analytics
+- Data Structures & Algorithms
+- Cloud Technologies
 
-🎯 **Career Goal**
+🎯 Looking for opportunities in
 
-To work as a **Data Analyst** or **Business Analyst**, helping organizations make smarter decisions through data-driven insights.
+- Software Engineering
+- Data Analytics
+- Business Analytics
+- Python Development
+- AI & Machine Learning
 
 ---
 
@@ -55,69 +70,116 @@ To work as a **Data Analyst** or **Business Analyst**, helping organizations mak
 
 # 💻 Tech Stack
 
-### Programming
+### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5"/>
+
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
+
+</p>
 
 ### Data Analytics
 
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+<p>
 
-### Python Libraries
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge)
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 
-### Database
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+<img src="https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge"/>
 
-### Web & Tools
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi"/>
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
 
----
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
 
-# 🚀 Featured Projects
+</p>
 
-### 📌 Job Application Tracker
-- Track job applications efficiently
-- Dashboard with analytics
-- Built using Python, Streamlit and SQLite
+### Database & Tools
 
----
+<p>
 
-### 📌 Business Dashboard
-- Interactive KPI Dashboard
-- Data Visualization
-- Business Insights
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
+
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</p>
 
 ---
 
-### 📌 Sales Data Analysis
-- Python
-- SQL
-- Pandas
-- Data Cleaning
-- Business Reports
+# 🌟 Featured Projects
 
----
+## 📈 Option Scope
 
-### 📌 AI Text Summarizer
-- NLP
+### Position & Options Trading Analytics Platform
+
+**Tech Stack**
+
 - Python
 - Streamlit
-- AI-powered summarization
+- SQLite
+- Pandas
+- Plotly
+
+### Features
+
+- 📊 Interactive Trading Dashboard
+- 📈 Live P&L Tracking
+- 💹 Position Monitoring
+- 📉 Advanced Trading Analytics
+- 📊 Performance Reports
+- 📅 Trade History
+- 📂 CSV Import & Export
+- 💾 Database Integration
+- 🎨 Modern Dark Theme UI
+- ⚡ Fast and Responsive Interface
+
+🔗 Repository:
+https://github.com/Narasimha2308/Option-Scope
+
+🔗 Live Demo:
+https://YOUR-STREAMLIT-LINK.streamlit.app
+
+---
+
+## 💼 Job Application Tracker
+
+A modern job tracking application that helps users organize, monitor, and analyze job applications with insightful dashboards.
+
+**Tech Stack**
+
+- Python
+- Streamlit
+- SQLite
+
+---
+
+## 📊 Sales Data Analysis
+
+Performed end-to-end sales analysis using Python, SQL, and visualization tools to uncover business insights and improve decision-making.
+
+---
+
+## 🤖 AI Text Summarizer
+
+Built an AI-powered text summarization application using NLP techniques and Python.
 
 ---
 
@@ -143,41 +205,41 @@ To work as a **Data Analyst** or **Business Analyst**, helping organizations mak
 
 ---
 
-# 📚 Currently Exploring
+# 📚 Currently Learning
 
 - Advanced SQL
-- Data Warehousing
+- Power BI
+- Tableau
 - Machine Learning
-- Business Intelligence
 - Microsoft Fabric
 - Azure Data Fundamentals
-- Data Engineering Basics
+- Data Engineering
+- Cloud Computing
 
 ---
 
-# 📜 Certifications
+# 🏆 Certifications
 
-✔ Microsoft Fabric
+- Microsoft Fabric Fundamentals
+- Power BI
+- SQL
+- Python
+- Excel for Data Analytics
 
-✔ Power BI
-
-✔ SQL
-
-✔ Python for Data Analysis
-
-✔ Excel for Data Analytics
-
-*(Update this section as you earn more certifications.)*
+*(Continuously expanding my technical skills through certifications and hands-on projects.)*
 
 ---
 
-# 💡 Quote I Live By
+# 💡 Quote
 
-> **"Without data, you're just another person with an opinion."**  
-> — W. Edwards Deming
+> **"Data tells a story. Great software helps people understand it."**
 
 ---
 
 <h3 align="center">
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
+⭐ Thanks for visiting my GitHub profile!
+
+I'm always excited to collaborate on Software Development, Data Analytics, AI, and Open Source projects.
+
 </h3>
