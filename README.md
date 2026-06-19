@@ -1,245 +1,229 @@
-<h1 align="center">Hi 👋, I'm T. Narasimha</h1>
+<div align="center">
 
-<h3 align="center">
-Aspiring Software Engineer | Data Analyst | Business Analyst | AI Enthusiast
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=T.%20Narasimha&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Developer%20%7C%20Data%20Analyst&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<p align="center">
-Building practical software, analyzing data, and solving real-world problems through technology.
-</p>
+</div>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Narasimha2308&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<div align="center">
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&width=600&lines=Building+AI-Powered+Applications+%F0%9F%A4%96;Turning+Data+into+Insights+%F0%9F%93%8A;Crafting+Real-World+Software+Solutions+%F0%9F%9A%80;Python+%7C+NLP+%7C+Streamlit+%7C+SQL)](https://git.io/typing-svg)
 
-# 🚀 About Me
+</div>
 
-🎓 Final Year B.Tech Computer Science Student
+<br/>
 
-💻 Passionate about
-
-- Software Development
-- Data Analytics
-- Business Analytics
-- Artificial Intelligence
-- Automation
-- Full Stack Development
-
-📊 I enjoy building applications that solve real-world problems while combining software engineering with data-driven insights.
-
-🌱 Currently Learning
-
-- Advanced SQL
-- Power BI
-- Tableau
-- Machine Learning
-- Data Structures & Algorithms
-- Cloud Technologies
-
-🎯 Looking for opportunities in
-
-- Software Engineering
-- Data Analytics
-- Business Analytics
-- Python Development
-- AI & Machine Learning
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/thulabandhu-narasimha-219083321/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Narasimha2308&label=Profile+Views&color=7C3AED&style=for-the-badge" />
+&nbsp;
+<a href="https://www.linkedin.com/in/thulabandhu-narasimha-219083321/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+&nbsp;
+<a href="https://github.com/Narasimha2308">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="https://www.instagram.com/narasimha._.thulabandhu/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-# 💻 Tech Stack
+## 🧠 About Me
 
-### Programming Languages
+```python
+class Narasimha:
+    name       = "T. Narasimha"
+    role       = ["Software Engineer", "AI Developer", "Data Analyst"]
+    education  = "B.Tech CSE (AI Minor) @ KL University — CGPA: 8.88"
+    location   = "Vijayawada, Andhra Pradesh, India"
+    passion    = "Building AI-powered apps that solve real problems"
 
-<p>
+    skills     = {
+        "AI/ML"      : ["NLP", "Hugging Face", "BART", "Scikit-learn"],
+        "Dev"        : ["Python", "Streamlit", "SQL", "SQLite"],
+        "Analytics"  : ["Pandas", "Plotly", "Power BI", "Excel"],
+        "Tools"      : ["Git", "GitHub", "VS Code"]
+    }
 
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    currently_learning = ["Machine Learning", "Advanced SQL", "Cloud Technologies"]
+    open_to            = ["Software Engineering", "AI/ML Roles", "Data Analytics"]
 
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something amazing. 🚀")
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5"/>
-
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
-
-</p>
-
-### Data Analytics
-
-<p>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi"/>
-
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
-
-</p>
-
-### Database & Tools
-
-<p>
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
-
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite"/>
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-</p>
+me = Narasimha()
+me.say_hi()
+```
 
 ---
 
-# 🌟 Featured Projects
+## 🚀 Featured Projects
 
-## 📈 Option Scope
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Position & Options Trading Analytics Platform
+### 🤖 AI Resume Analyzer
+> **Python · Streamlit · NLP · Scikit-learn**
 
-**Tech Stack**
+AI-powered resume evaluation against job descriptions with ATS scoring, keyword extraction, and skill gap analysis. Real-time feedback via interactive Streamlit interface.
 
-- Python
-- Streamlit
-- SQLite
-- Pandas
-- Plotly
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-7C3AED?style=flat-square)
+![Scikit](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-### Features
+</td>
+<td width="50%" valign="top">
 
-- 📊 Interactive Trading Dashboard
-- 📈 Live P&L Tracking
-- 💹 Position Monitoring
-- 📉 Advanced Trading Analytics
-- 📊 Performance Reports
-- 📅 Trade History
-- 📂 CSV Import & Export
-- 💾 Database Integration
-- 🎨 Modern Dark Theme UI
-- ⚡ Fast and Responsive Interface
+### 📞 AI Call Center Supervisor
+> **Python · Streamlit · NLP · Pandas**
 
-🔗 Repository:
-https://github.com/Narasimha2308/Option-Scope
+Analyzes call transcripts with sentiment analysis, issue categorization, and conversation summarization. Live dashboard for agent performance monitoring.
 
-🔗 Live Demo:
-https://YOUR-STREAMLIT-LINK.streamlit.app
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-7C3AED?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 💼 Job Application Tracker
+### 💰 Smart Expense Tracker
+> **Python · Streamlit · SQLite · Plotly**
 
-A modern job tracking application that helps users organize, monitor, and analyze job applications with insightful dashboards.
+Full-stack personal finance app with CRUD operations, budget management, expense categorization, and interactive Plotly dashboards for real-time financial insights.
 
-**Tech Stack**
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-- Python
-- Streamlit
-- SQLite
+</td>
+<td width="50%" valign="top">
 
----
+### 📈 OptionScope
+> **Python · Streamlit · Plotly · SQLite**
 
-## 📊 Sales Data Analysis
+Financial analytics dashboard for options trading — live P&L tracking, position monitoring, advanced analytics, and CSV import/export with SQLite backend.
 
-Performed end-to-end sales analysis using Python, SQL, and visualization tools to uncover business insights and improve decision-making.
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Narasimha2308/Option-Scope)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
----
-
-## 🤖 AI Text Summarizer
-
-Built an AI-powered text summarization application using NLP techniques and Python.
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Narasimha2308&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Narasimha2308&theme=tokyonight&hide_border=true"/>
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-# 📈 Most Used Languages
+## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narasimha2308&layout=compact&theme=tokyonight&hide_border=true"/>
+**Languages**
 
-</p>
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**AI / ML**
+
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-7C3AED?style=for-the-badge)
+![BART](https://img.shields.io/badge/BART-FF6B6B?style=for-the-badge)
+
+**Data & Visualization**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+**Frameworks & Databases**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
-# 📚 Currently Learning
+## 📊 GitHub Stats
 
-- Advanced SQL
-- Power BI
-- Tableau
-- Machine Learning
-- Microsoft Fabric
-- Azure Data Fundamentals
-- Data Engineering
-- Cloud Computing
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Narasimha2308&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff"/>
+&nbsp;
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Narasimha2308&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narasimha2308&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Narasimha2308&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7C3AED&line=7C3AED&point=FF6B6B" width="95%"/>
+
+</div>
 
 ---
 
-# 🏆 Certifications
+## 🏆 GitHub Trophies
 
-- Microsoft Fabric Fundamentals
-- Power BI
-- SQL
-- Python
-- Excel for Data Analytics
+<div align="center">
 
-*(Continuously expanding my technical skills through certifications and hands-on projects.)*
+<img src="https://github-profile-trophy.vercel.app/?username=Narasimha2308&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" width="95%"/>
+
+</div>
 
 ---
 
-# 💡 Quote
+## 📜 Certifications
+
+| Certification | Platform |
+|---|---|
+| 🐍 Python | Coursera |
+| 📊 Data Analyst Virtual Internship | Deloitte (Forage) |
+| 🧱 Microsoft Fabric Fundamentals | Microsoft |
+| 📈 Power BI | Microsoft |
+| 🗄️ SQL | — |
+| 📉 Excel for Data Analytics | — |
+
+---
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+![ML](https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=for-the-badge)
+![Advanced SQL](https://img.shields.io/badge/Advanced%20SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud%20Technologies-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2ECC71?style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
 
 > **"Data tells a story. Great software helps people understand it."**
 
----
+<br/>
 
-<h3 align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-⭐ Thanks for visiting my GitHub profile!
-
-I'm always excited to collaborate on Software Development, Data Analytics, AI, and Open Source projects.
-
-</h3>
+</div>
