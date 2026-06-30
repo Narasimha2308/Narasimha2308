@@ -37,7 +37,7 @@ class Narasimha:
     passion    = "Building AI-powered apps that solve real problems"
 
     skills     = {
-        "AI/ML"      : ["NLP", "Hugging Face", "BART", "Scikit-learn"],
+        "AI/ML"      : ["NLP", "Computer Vision", "Hugging Face", "BART", "Scikit-learn"],
         "Dev"        : ["Python", "Streamlit", "SQL", "SQLite"],
         "Analytics"  : ["Pandas", "Plotly", "Power BI", "Excel"],
         "Tools"      : ["Git", "GitHub", "VS Code"]
@@ -61,15 +61,14 @@ me.say_hi()
 <tr>
 <td width="33%" valign="top">
 
-### 🌦️ Weather App
-> **JavaScript**
+### 🧑‍💻 Face-Mesh
+> **Python · Computer Vision**
 
-A responsive weather application fetching real-time weather data for any location with a clean, dynamic interface.
+Real-time facial landmark detection and tracking app using computer vision techniques to map detailed facial geometry from a live video feed.
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Narasimha2308/Weather-app)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Narasimha2308/Face-mesh)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![CV](https://img.shields.io/badge/Computer_Vision-7C3AED?style=flat-square)
 
 </td>
 <td width="33%" valign="top">
@@ -97,6 +96,59 @@ Financial analytics dashboard for options trading — live P&L tracking, positio
 
 </td>
 </tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🏛️ Citizen AI Assistant
+> **Python · NLP · Streamlit**
+
+An AI-driven virtual assistant designed to help citizens access information and services through natural conversational interactions.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Narasimha2308/Citizen-Ai-Assistant)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+### 🌦️ Weather App
+> **JavaScript**
+
+A responsive weather application fetching real-time weather data for any location with a clean, dynamic interface.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Narasimha2308/Weather-app)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+### 👏 Clap-AGI
+> **Python · AI**
+
+An experimental AI project exploring agentic and generative intelligence concepts through hands-on implementation.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Narasimha2308/clap-agi)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-7C3AED?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### ⌨️ Key-Board Virtual
+> **Python · Computer Vision**
+
+A virtual on-screen keyboard controlled via hand-tracking and computer vision, enabling touchless typing input.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Narasimha2308/key-board-virtual)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![CV](https://img.shields.io/badge/Computer_Vision-7C3AED?style=flat-square)
+
+</td>
+</tr>
 </table>
 
 ---
@@ -112,12 +164,13 @@ Financial analytics dashboard for options trading — live P&L tracking, positio
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-**AI / ML**
+**AI / ML / CV**
 
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-7C3AED?style=for-the-badge)
 ![BART](https://img.shields.io/badge/BART-FF6B6B?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 **Data & Visualization**
 
