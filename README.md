@@ -130,6 +130,16 @@ New AI experiments and dashboards are always brewing. Check the pinned repos for
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+#### 🧠 ATS Resume Checker — `Python · Flask · scikit-learn · Groq AI`
+A full-stack ATS simulator that scores resumes against any job description — keyword matching, content similarity, section/formatting checks, and free AI-powered rewrite suggestions via Groq's LLM API. 100% free to run, zero paid APIs.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Narasimha2308/ats-resume-checker)
+
+</td>
+</tr>
 </table>
 
 <p align="center">
